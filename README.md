@@ -1,11 +1,6 @@
 # Linux Operating System
 
-:)  HI !
-
-THANKS FOR STOPPING BY, UNFORTUNATELY I AM STILL WORKING ON CREATING MY BEST VERSION OF THIS DISPLAY & DEMO.
-NO NEED TO WORRY, I AM CONSTANTLY WORKING TOWARDS COMPLETING THIS PRODUCT.
-
-PLEASE, REVIST ME SOON !
+Check out my guide on <a href="https://lucky-salto-c8e.notion.site/Linux-Operating-System-cae01ce27c4d4088bf2c6258bd991cc1?pvs=4/">different Linux Systems</a>.
 
 ## Kali Linux Command Cheatsheet
 
